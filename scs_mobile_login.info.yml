@@ -1,0 +1,5 @@
+name: SCS Mobile Login
+type: module
+Description: 'Example of first login module'
+package: custom
+core: 8.x
